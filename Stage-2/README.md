@@ -4,7 +4,7 @@
 
 Stage–2 focuses on the implementation of real-time ultrasonic sensor data acquisition and its end-to-end transmission through a 5G communication framework. This phase demonstrates the integration of embedded sensing with 5G networking and edge computing infrastructure to validate low-latency data transfer capabilities.
 
-The objective of this stage was to establish a complete data path from the sensing node to the receiver system through the 5G core and Multi-access Edge Computing (MEC) environment.
+The objective of this stage was to establish a complete data path from the sensing node to the receiver system through the 5G core and Multi-access Edge Computing (MEC) environment. This was done a test case to ensure the validity.
 
 ---
 
