@@ -12,9 +12,8 @@ A structured analysis of the 5G Standalone architecture was conducted, covering:
 
 - gNB (Next Generation NodeB)
 - 5G Core (5GC)
-- Access and Mobility Management Function (AMF)
-- User Plane Function (UPF)
-- Service-Based Architecture (SBA)
+- Evaluation Board
+- MEC Server
 
 The architectural differences between Non-Standalone (NSA) and Standalone (SA) deployments were examined, highlighting the advantages of a fully integrated 5G core network in achieving reduced latency and enhanced reliability.
 
