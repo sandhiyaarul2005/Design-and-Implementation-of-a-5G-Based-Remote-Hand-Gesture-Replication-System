@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This stage focuses on the analytical study of the 5G Standalone (SA) network architecture and the quantitative evaluation of its performance characteristics. The objective was to assess the feasibility of utilizing 5G SA infrastructure for low-latency, real-time motion transmission in teleoperation systems.
 
-Technical Study
+**Technical Study**
 
 A detailed examination of the 5G SA architecture was conducted, including:
 gNB (Next Generation NodeB)
@@ -12,7 +12,7 @@ Evaluation Board
 
 The study emphasized architectural differences between Non-Standalone (NSA) and Standalone (SA) deployments, highlighting the benefits of native 5G core integration for ultra-low latency communication.
 
-Performance Evaluation
+**Performance Evaluation**
 
 Network performance was characterized through empirical measurement of the following parameters:
 Uplink Data Rate
@@ -22,9 +22,8 @@ Jitter
 Packet Loss
 Signal Quality Metrics (RSRP, SINR)
 
-Measurements were conducted to determine network stability, throughput consistency, and latency suitability for real-time control applications.
 
-Inference
+**Inference**
 
 The observed performance metrics indicate that 5G SA provides:
 High bidirectional throughput
