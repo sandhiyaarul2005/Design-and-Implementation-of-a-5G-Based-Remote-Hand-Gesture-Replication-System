@@ -1,10 +1,8 @@
-# 📡 Stage–1: Study and Performance Evaluation of 5G Standalone Network
+# Stage–1: Study and Performance Evaluation of 5G Standalone Network
 
 ## Overview
 
 This stage focuses on the analytical study and performance evaluation of the 5G Standalone (SA) network architecture. The objective was to examine the feasibility of leveraging 5G SA infrastructure for low-latency, real-time gesture transmission and remote actuation systems.
-
-The study emphasizes understanding the architectural framework of 5G SA and assessing its suitability for time-sensitive teleoperation applications.
 
 ---
 
